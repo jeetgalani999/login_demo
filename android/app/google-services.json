@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992576169630",
+    "project_id": "login-4dd91",
+    "storage_bucket": "login-4dd91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992576169630:android:1e1be6fb3e5c0f19693d8f",
+        "android_client_info": {
+          "package_name": "com.jeet.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992576169630-j5dfojmuq1jc38a61f8n9669mcdejo8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCReoW8Y6Mu1dINX6V4cgdlcFqRriZ2D6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992576169630-j5dfojmuq1jc38a61f8n9669mcdejo8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
